@@ -1,7 +1,7 @@
 # kodlandbitirmeprojesi
 ## Projemin fikri:
->iklim değişikliği hakkında bilgilerin ve soruların, çözümlerin olduğu bir website.
+>hayvanları tanıtıp yaşam süreleri, yedikleri yiyecek gibi şeyler olacak.
 ## Projemin tütü:
->bir website
+>bir hayvan karşılaştırma projesi
 ## Geliştirme sırasında bana yardımcı olabilecek kılavuz kaynaklar
 >wikipedia ve diğer araştırma siteleri
