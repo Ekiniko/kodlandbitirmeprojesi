@@ -1,7 +1,7 @@
 # kodlandbitirmeprojesi
 ## Projemin fikri:
->hayvanları tanıtıp yaşam süreleri, yedikleri yiyecek gibi şeyler olacak.
+>bu proje bir website olacak fakat bu websiteye eğer bir köpeğiniz var ise bu köpeğin fotoğrafını yüklüyorsunuz ve bu web sitesi size köpeğiniz le ilgili bilgiler veriyor.
 ## Projemin tütü:
->bir hayvan karşılaştırma projesi
+>bir hayvan karşılaştırma projesi ve websitenin karışımı
 ## Geliştirme sırasında bana yardımcı olabilecek kılavuz kaynaklar
->wikipedia ve diğer araştırma siteleri
+>wikipedia, google teachable machine ve VS Code
